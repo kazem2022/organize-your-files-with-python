@@ -5,8 +5,8 @@ With using this code, you can sort and categorize your messy files that are in a
 
 In this code I used os,time libraries
 ** For start working with code, in first you need to set two parameters: *source* file address and *destination* file address(absolute or relative)
-![image](https://github.com/kazem2022/organize-your-files-with-python/assets/118965194/75ed2119-dbd9-4206-b983-d0b05fb10f75![Uploading Capture.JPG…]()
-)
+![image](https://github.com/kazem2022/organize-your-files-with-python/assets/118965194/27463b74-d834-406c-87c0-51e8aa4672a3)
+
 
 then you can modify categories with your request.
 Change suffix and folder-name for your desire:
